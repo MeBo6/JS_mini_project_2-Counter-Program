@@ -11,6 +11,7 @@ document.getElementById("decreaseBtn").onclick = function(){
    countLabel.textContent = count;
 }
 
+
 document.getElementById("resetBtn").onclick = function() {
    count = 0;
    countLabel.textContent = count;
